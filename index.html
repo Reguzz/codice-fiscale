@@ -1,0 +1,54 @@
+<html>
+  <head>
+    <title>Codice Fiscale</title>
+    <meta charset="utf-8" />
+    <script src="./script.js"></script>
+    <link rel="stylesheet" href="./style.css" />
+  </head>
+  <body>
+    <div class="container">
+      <h1>Calcola il codice fiscale</h1>
+      <form onsubmit="false">
+        <div class="inputGroup">
+          <label for="in-cognome">Cognome</label>
+          <input
+            type="text"
+            placeholder="Inserisci il cognome..."
+            id="in-cognome"
+            oninput="textValidator(event)"
+          />
+        </div>
+        <div class="inputGroup">
+          <label for="in-nome">Nome</label>
+          <input type="text" placeholder="Inserisci il nome..." id="in-nome" />
+        </div>
+        <div class="inputGroup multiple">
+          <div class="inputGroup2">
+            <label for="in-data">Data</label>
+            <input type="date" id="in-data" />
+          </div>
+          <div class="inputGroup2">
+            <label for="in-gen">Genere</label>
+            <input type="text" id="in-gen" />
+          </div>
+        </div>
+        <div class="inputGroup multiple">
+            <div class="inputGroup3">
+                <label for="in-citta">Città</label>
+                <input type="text" id="in-citta" />
+            </div>
+            <div class="inputGroup4">
+                <label for="in-prov">Provincia</label>
+                <input type="text" id="in-prov" />
+            </div>
+        </div>
+        <input type="button" value="Calcola" onclick="calcolaCodiceFiscale" />
+        <input
+          type="button"
+          value="AAAAAA"
+          onclick="getCodStato('EUROPA', 'BELGIO')"
+        />
+      </form>
+    </div>
+  </body>
+</html>

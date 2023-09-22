@@ -1,0 +1,1242 @@
+[
+  {
+    "Continente": "EUROPA",
+    "Denominazione": "ALBANIA",
+    "Codice Nazionale": "Z100"
+  },
+  {
+    "Continente": "EUROPA",
+    "Denominazione": "ANDORRA",
+    "Codice Nazionale": "Z101"
+  },
+  {
+    "Continente": "EUROPA",
+    "Denominazione": "AUSTRIA",
+    "Codice Nazionale": "Z102"
+  },
+  {
+    "Continente": "EUROPA",
+    "Denominazione": "BELGIO",
+    "Codice Nazionale": "Z103"
+  },
+  {
+    "Continente": "EUROPA",
+    "Denominazione": "BULGARIA",
+    "Codice Nazionale": "Z104"
+  },
+  {
+    "Continente": "EUROPA",
+    "Denominazione": "STATO CITTA' DEL VATICANO",
+    "Codice Nazionale": "Z106"
+  },
+  {
+    "Continente": "EUROPA",
+    "Denominazione": "DANIMARCA",
+    "Codice Nazionale": "Z107"
+  },
+  {
+    "Continente": "EUROPA",
+    "Denominazione": "ISOLE FAER OER",
+    "Codice Nazionale": "Z108"
+  },
+  {
+    "Continente": "EUROPA",
+    "Denominazione": "FINLANDIA",
+    "Codice Nazionale": "Z109"
+  },
+  {
+    "Continente": "EUROPA",
+    "Denominazione": "FRANCIA",
+    "Codice Nazionale": "Z110"
+  },
+  {
+    "Continente": "EUROPA",
+    "Denominazione": "GERMANIA",
+    "Codice Nazionale": "Z112"
+  },
+  {
+    "Continente": "EUROPA",
+    "Denominazione": "GIBILTERRA",
+    "Codice Nazionale": "Z113"
+  },
+  {
+    "Continente": "EUROPA",
+    "Denominazione": "REGNO UNITO",
+    "Codice Nazionale": "Z114"
+  },
+  {
+    "Continente": "EUROPA",
+    "Denominazione": "GRECIA",
+    "Codice Nazionale": "Z115"
+  },
+  {
+    "Continente": "EUROPA",
+    "Denominazione": "IRLANDA",
+    "Codice Nazionale": "Z116"
+  },
+  {
+    "Continente": "EUROPA",
+    "Denominazione": "ISLANDA",
+    "Codice Nazionale": "Z117"
+  },
+  {
+    "Continente": "EUROPA",
+    "Denominazione": "LIECHTENSTEIN",
+    "Codice Nazionale": "Z119"
+  },
+  {
+    "Continente": "EUROPA",
+    "Denominazione": "LUSSEMBURGO",
+    "Codice Nazionale": "Z120"
+  },
+  {
+    "Continente": "EUROPA",
+    "Denominazione": "MALTA",
+    "Codice Nazionale": "Z121"
+  },
+  {
+    "Continente": "EUROPA",
+    "Denominazione": "ISOLA DI MAN",
+    "Codice Nazionale": "Z122"
+  },
+  {
+    "Continente": "EUROPA",
+    "Denominazione": "MONACO",
+    "Codice Nazionale": "Z123"
+  },
+  {
+    "Continente": "EUROPA",
+    "Denominazione": "NORMANNE (ISOLE) O ISOLE DEL CANALE",
+    "Codice Nazionale": "Z124"
+  },
+  {
+    "Continente": "EUROPA",
+    "Denominazione": "NORVEGIA",
+    "Codice Nazionale": "Z125"
+  },
+  {
+    "Continente": "EUROPA",
+    "Denominazione": "PAESI BASSI",
+    "Codice Nazionale": "Z126"
+  },
+  {
+    "Continente": "EUROPA",
+    "Denominazione": "POLONIA",
+    "Codice Nazionale": "Z127"
+  },
+  {
+    "Continente": "EUROPA",
+    "Denominazione": "PORTOGALLO",
+    "Codice Nazionale": "Z128"
+  },
+  {
+    "Continente": "EUROPA",
+    "Denominazione": "ROMANIA",
+    "Codice Nazionale": "Z129"
+  },
+  {
+    "Continente": "EUROPA",
+    "Denominazione": "SAN MARINO",
+    "Codice Nazionale": "Z130"
+  },
+  {
+    "Continente": "EUROPA",
+    "Denominazione": "SPAGNA",
+    "Codice Nazionale": "Z131"
+  },
+  {
+    "Continente": "EUROPA",
+    "Denominazione": "SVEZIA",
+    "Codice Nazionale": "Z132"
+  },
+  {
+    "Continente": "EUROPA",
+    "Denominazione": "SVIZZERA",
+    "Codice Nazionale": "Z133"
+  },
+  {
+    "Continente": "EUROPA",
+    "Denominazione": "UNGHERIA",
+    "Codice Nazionale": "Z134"
+  },
+  {
+    "Continente": "EUROPA",
+    "Denominazione": "UCRAINA",
+    "Codice Nazionale": "Z138"
+  },
+  {
+    "Continente": "EUROPA",
+    "Denominazione": "BIELORUSSIA",
+    "Codice Nazionale": "Z139"
+  },
+  {
+    "Continente": "EUROPA",
+    "Denominazione": "MOLDOVA",
+    "Codice Nazionale": "Z140"
+  },
+  {
+    "Continente": "EUROPA",
+    "Denominazione": "ESTONIA",
+    "Codice Nazionale": "Z144"
+  },
+  {
+    "Continente": "EUROPA",
+    "Denominazione": "LETTONIA",
+    "Codice Nazionale": "Z145"
+  },
+  {
+    "Continente": "EUROPA",
+    "Denominazione": "LITUANIA",
+    "Codice Nazionale": "Z146"
+  },
+  {
+    "Continente": "EUROPA",
+    "Denominazione": "MACEDONIA DEL NORD",
+    "Codice Nazionale": "Z148"
+  },
+  {
+    "Continente": "EUROPA",
+    "Denominazione": "CROAZIA",
+    "Codice Nazionale": "Z149"
+  },
+  {
+    "Continente": "EUROPA",
+    "Denominazione": "SLOVENIA",
+    "Codice Nazionale": "Z150"
+  },
+  {
+    "Continente": "EUROPA",
+    "Denominazione": "BOSNIA-ERZEGOVINA",
+    "Codice Nazionale": "Z153"
+  },
+  {
+    "Continente": "EUROPA",
+    "Denominazione": "FEDERAZIONE RUSSA",
+    "Codice Nazionale": "Z154"
+  },
+  {
+    "Continente": "EUROPA",
+    "Denominazione": "SLOVACCHIA",
+    "Codice Nazionale": "Z155"
+  },
+  {
+    "Continente": "EUROPA",
+    "Denominazione": "REPUBBLICA CECA",
+    "Codice Nazionale": "Z156"
+  },
+  {
+    "Continente": "EUROPA",
+    "Denominazione": "SERBIA",
+    "Codice Nazionale": "Z158"
+  },
+  {
+    "Continente": "EUROPA",
+    "Denominazione": "MONTENEGRO",
+    "Codice Nazionale": "Z159"
+  },
+  {
+    "Continente": "EUROPA",
+    "Denominazione": "KOSOVO",
+    "Codice Nazionale": "Z160"
+  },
+  {
+    "Continente": "ASIA",
+    "Denominazione": "TERRITORI DELL'AUTONOMIA PALESTINESE",
+    "Codice Nazionale": "Z161"
+  },
+  {
+    "Continente": "ASIA",
+    "Denominazione": "AFGHANISTAN",
+    "Codice Nazionale": "Z200"
+  },
+  {
+    "Continente": "ASIA",
+    "Denominazione": "ARABIA SAUDITA",
+    "Codice Nazionale": "Z203"
+  },
+  {
+    "Continente": "ASIA",
+    "Denominazione": "BAHREIN",
+    "Codice Nazionale": "Z204"
+  },
+  {
+    "Continente": "ASIA",
+    "Denominazione": "BHUTAN",
+    "Codice Nazionale": "Z205"
+  },
+  {
+    "Continente": "ASIA",
+    "Denominazione": "MYANMAR",
+    "Codice Nazionale": "Z206"
+  },
+  {
+    "Continente": "ASIA",
+    "Denominazione": "BRUNEI",
+    "Codice Nazionale": "Z207"
+  },
+  {
+    "Continente": "ASIA",
+    "Denominazione": "CAMBOGIA",
+    "Codice Nazionale": "Z208"
+  },
+  {
+    "Continente": "ASIA",
+    "Denominazione": "SRI LANKA",
+    "Codice Nazionale": "Z209"
+  },
+  {
+    "Continente": "ASIA",
+    "Denominazione": "REPUBBLICA POPOLARE CINESE",
+    "Codice Nazionale": "Z210"
+  },
+  {
+    "Continente": "ASIA",
+    "Denominazione": "CIPRO",
+    "Codice Nazionale": "Z211"
+  },
+  {
+    "Continente": "ASIA",
+    "Denominazione": "COCOS (ISOLE)",
+    "Codice Nazionale": "Z212"
+  },
+  {
+    "Continente": "ASIA",
+    "Denominazione": "REPUBBLICA DI COREA",
+    "Codice Nazionale": "Z213"
+  },
+  {
+    "Continente": "ASIA",
+    "Denominazione": "REPUBBLICA POPOLARE DEMOCRATICA DI COREA",
+    "Codice Nazionale": "Z214"
+  },
+  {
+    "Continente": "ASIA",
+    "Denominazione": "EMIRATI ARABI UNITI",
+    "Codice Nazionale": "Z215"
+  },
+  {
+    "Continente": "ASIA",
+    "Denominazione": "FILIPPINE",
+    "Codice Nazionale": "Z216"
+  },
+  {
+    "Continente": "ASIA",
+    "Denominazione": "TAIWAN",
+    "Codice Nazionale": "Z217"
+  },
+  {
+    "Continente": "ASIA",
+    "Denominazione": "GAZA (TERRITORIO DI)",
+    "Codice Nazionale": "Z218"
+  },
+  {
+    "Continente": "ASIA",
+    "Denominazione": "GIAPPONE",
+    "Codice Nazionale": "Z219"
+  },
+  {
+    "Continente": "ASIA",
+    "Denominazione": "GIORDANIA",
+    "Codice Nazionale": "Z220"
+  },
+  {
+    "Continente": "ASIA",
+    "Denominazione": "INDIA",
+    "Codice Nazionale": "Z222"
+  },
+  {
+    "Continente": "ASIA",
+    "Denominazione": "INDONESIA",
+    "Codice Nazionale": "Z223"
+  },
+  {
+    "Continente": "ASIA",
+    "Denominazione": "IRAN",
+    "Codice Nazionale": "Z224"
+  },
+  {
+    "Continente": "ASIA",
+    "Denominazione": "IRAQ",
+    "Codice Nazionale": "Z225"
+  },
+  {
+    "Continente": "ASIA",
+    "Denominazione": "ISRAELE",
+    "Codice Nazionale": "Z226"
+  },
+  {
+    "Continente": "ASIA",
+    "Denominazione": "KUWAIT",
+    "Codice Nazionale": "Z227"
+  },
+  {
+    "Continente": "ASIA",
+    "Denominazione": "LAOS",
+    "Codice Nazionale": "Z228"
+  },
+  {
+    "Continente": "ASIA",
+    "Denominazione": "LIBANO",
+    "Codice Nazionale": "Z229"
+  },
+  {
+    "Continente": "ASIA",
+    "Denominazione": "MACAO",
+    "Codice Nazionale": "Z231"
+  },
+  {
+    "Continente": "ASIA",
+    "Denominazione": "MALDIVE",
+    "Codice Nazionale": "Z232"
+  },
+  {
+    "Continente": "ASIA",
+    "Denominazione": "MONGOLIA",
+    "Codice Nazionale": "Z233"
+  },
+  {
+    "Continente": "ASIA",
+    "Denominazione": "NEPAL",
+    "Codice Nazionale": "Z234"
+  },
+  {
+    "Continente": "ASIA",
+    "Denominazione": "OMAN",
+    "Codice Nazionale": "Z235"
+  },
+  {
+    "Continente": "ASIA",
+    "Denominazione": "PAKISTAN",
+    "Codice Nazionale": "Z236"
+  },
+  {
+    "Continente": "ASIA",
+    "Denominazione": "QATAR",
+    "Codice Nazionale": "Z237"
+  },
+  {
+    "Continente": "ASIA",
+    "Denominazione": "SIRIA",
+    "Codice Nazionale": "Z240"
+  },
+  {
+    "Continente": "ASIA",
+    "Denominazione": "THAILANDIA",
+    "Codice Nazionale": "Z241"
+  },
+  {
+    "Continente": "ASIA",
+    "Denominazione": "TIMOR ORIENTALE",
+    "Codice Nazionale": "Z242"
+  },
+  {
+    "Continente": "ASIA",
+    "Denominazione": "TURCHIA",
+    "Codice Nazionale": "Z243"
+  },
+  {
+    "Continente": "ASIA",
+    "Denominazione": "YEMEN",
+    "Codice Nazionale": "Z246"
+  },
+  {
+    "Continente": "ASIA",
+    "Denominazione": "MALAYSIA",
+    "Codice Nazionale": "Z247"
+  },
+  {
+    "Continente": "ASIA",
+    "Denominazione": "SINGAPORE",
+    "Codice Nazionale": "Z248"
+  },
+  {
+    "Continente": "ASIA",
+    "Denominazione": "BANGLADESH",
+    "Codice Nazionale": "Z249"
+  },
+  {
+    "Continente": "ASIA",
+    "Denominazione": "VIETNAM",
+    "Codice Nazionale": "Z251"
+  },
+  {
+    "Continente": "ASIA",
+    "Denominazione": "ARMENIA",
+    "Codice Nazionale": "Z252"
+  },
+  {
+    "Continente": "ASIA",
+    "Denominazione": "AZERBAIGIAN",
+    "Codice Nazionale": "Z253"
+  },
+  {
+    "Continente": "ASIA",
+    "Denominazione": "GEORGIA",
+    "Codice Nazionale": "Z254"
+  },
+  {
+    "Continente": "ASIA",
+    "Denominazione": "KAZAKHSTAN",
+    "Codice Nazionale": "Z255"
+  },
+  {
+    "Continente": "ASIA",
+    "Denominazione": "KIRGHIZISTAN",
+    "Codice Nazionale": "Z256"
+  },
+  {
+    "Continente": "ASIA",
+    "Denominazione": "TAGIKISTAN",
+    "Codice Nazionale": "Z257"
+  },
+  {
+    "Continente": "ASIA",
+    "Denominazione": "TURKMENISTAN",
+    "Codice Nazionale": "Z258"
+  },
+  {
+    "Continente": "ASIA",
+    "Denominazione": "UZBEKISTAN",
+    "Codice Nazionale": "Z259"
+  },
+  {
+    "Continente": "AFRICA",
+    "Denominazione": "NAMIBIA",
+    "Codice Nazionale": "Z300"
+  },
+  {
+    "Continente": "AFRICA",
+    "Denominazione": "ALGERIA",
+    "Codice Nazionale": "Z301"
+  },
+  {
+    "Continente": "AFRICA",
+    "Denominazione": "ANGOLA",
+    "Codice Nazionale": "Z302"
+  },
+  {
+    "Continente": "AFRICA",
+    "Denominazione": "BURUNDI",
+    "Codice Nazionale": "Z305"
+  },
+  {
+    "Continente": "AFRICA",
+    "Denominazione": "CAMERUN",
+    "Codice Nazionale": "Z306"
+  },
+  {
+    "Continente": "AFRICA",
+    "Denominazione": "CAPO VERDE",
+    "Codice Nazionale": "Z307"
+  },
+  {
+    "Continente": "AFRICA",
+    "Denominazione": "REPUBBLICA CENTRAFRICANA",
+    "Codice Nazionale": "Z308"
+  },
+  {
+    "Continente": "AFRICA",
+    "Denominazione": "CIAD",
+    "Codice Nazionale": "Z309"
+  },
+  {
+    "Continente": "AFRICA",
+    "Denominazione": "COMORE",
+    "Codice Nazionale": "Z310"
+  },
+  {
+    "Continente": "AFRICA",
+    "Denominazione": "CONGO",
+    "Codice Nazionale": "Z311"
+  },
+  {
+    "Continente": "AFRICA",
+    "Denominazione": "REPUBBLICA DEMOCRATICA DEL CONGO",
+    "Codice Nazionale": "Z312"
+  },
+  {
+    "Continente": "AFRICA",
+    "Denominazione": "COSTA D'AVORIO",
+    "Codice Nazionale": "Z313"
+  },
+  {
+    "Continente": "AFRICA",
+    "Denominazione": "BENIN",
+    "Codice Nazionale": "Z314"
+  },
+  {
+    "Continente": "AFRICA",
+    "Denominazione": "ETIOPIA",
+    "Codice Nazionale": "Z315"
+  },
+  {
+    "Continente": "AFRICA",
+    "Denominazione": "GABON",
+    "Codice Nazionale": "Z316"
+  },
+  {
+    "Continente": "AFRICA",
+    "Denominazione": "GAMBIA",
+    "Codice Nazionale": "Z317"
+  },
+  {
+    "Continente": "AFRICA",
+    "Denominazione": "GHANA",
+    "Codice Nazionale": "Z318"
+  },
+  {
+    "Continente": "AFRICA",
+    "Denominazione": "GUINEA",
+    "Codice Nazionale": "Z319"
+  },
+  {
+    "Continente": "AFRICA",
+    "Denominazione": "GUINEA BISSAU",
+    "Codice Nazionale": "Z320"
+  },
+  {
+    "Continente": "AFRICA",
+    "Denominazione": "GUINEA EQUATORIALE",
+    "Codice Nazionale": "Z321"
+  },
+  {
+    "Continente": "AFRICA",
+    "Denominazione": "KENYA",
+    "Codice Nazionale": "Z322"
+  },
+  {
+    "Continente": "AFRICA",
+    "Denominazione": "RIUNIONE",
+    "Codice Nazionale": "Z324"
+  },
+  {
+    "Continente": "AFRICA",
+    "Denominazione": "LIBERIA",
+    "Codice Nazionale": "Z325"
+  },
+  {
+    "Continente": "AFRICA",
+    "Denominazione": "LIBIA",
+    "Codice Nazionale": "Z326"
+  },
+  {
+    "Continente": "AFRICA",
+    "Denominazione": "MADAGASCAR",
+    "Codice Nazionale": "Z327"
+  },
+  {
+    "Continente": "AFRICA",
+    "Denominazione": "MALAWI",
+    "Codice Nazionale": "Z328"
+  },
+  {
+    "Continente": "AFRICA",
+    "Denominazione": "MALI",
+    "Codice Nazionale": "Z329"
+  },
+  {
+    "Continente": "AFRICA",
+    "Denominazione": "MAROCCO",
+    "Codice Nazionale": "Z330"
+  },
+  {
+    "Continente": "AFRICA",
+    "Denominazione": "MAURITANIA",
+    "Codice Nazionale": "Z331"
+  },
+  {
+    "Continente": "AFRICA",
+    "Denominazione": "MAURITIUS",
+    "Codice Nazionale": "Z332"
+  },
+  {
+    "Continente": "AFRICA",
+    "Denominazione": "MOZAMBICO",
+    "Codice Nazionale": "Z333"
+  },
+  {
+    "Continente": "AFRICA",
+    "Denominazione": "NIGER",
+    "Codice Nazionale": "Z334"
+  },
+  {
+    "Continente": "AFRICA",
+    "Denominazione": "NIGERIA",
+    "Codice Nazionale": "Z335"
+  },
+  {
+    "Continente": "AFRICA",
+    "Denominazione": "EGITTO",
+    "Codice Nazionale": "Z336"
+  },
+  {
+    "Continente": "AFRICA",
+    "Denominazione": "ZIMBABWE",
+    "Codice Nazionale": "Z337"
+  },
+  {
+    "Continente": "AFRICA",
+    "Denominazione": "RUANDA",
+    "Codice Nazionale": "Z338"
+  },
+  {
+    "Continente": "AFRICA",
+    "Denominazione": "SANT'ELENA",
+    "Codice Nazionale": "Z340"
+  },
+  {
+    "Continente": "AFRICA",
+    "Denominazione": "SAO TOME' E PRINCIPE",
+    "Codice Nazionale": "Z341"
+  },
+  {
+    "Continente": "AFRICA",
+    "Denominazione": "SEYCHELLES",
+    "Codice Nazionale": "Z342"
+  },
+  {
+    "Continente": "AFRICA",
+    "Denominazione": "SENEGAL",
+    "Codice Nazionale": "Z343"
+  },
+  {
+    "Continente": "AFRICA",
+    "Denominazione": "SIERRA LEONE",
+    "Codice Nazionale": "Z344"
+  },
+  {
+    "Continente": "AFRICA",
+    "Denominazione": "SOMALIA",
+    "Codice Nazionale": "Z345"
+  },
+  {
+    "Continente": "AFRICA",
+    "Denominazione": "SUD AFRICA",
+    "Codice Nazionale": "Z347"
+  },
+  {
+    "Continente": "AFRICA",
+    "Denominazione": "SUDAN",
+    "Codice Nazionale": "Z348"
+  },
+  {
+    "Continente": "AFRICA",
+    "Denominazione": "ESWATINI",
+    "Codice Nazionale": "Z349"
+  },
+  {
+    "Continente": "AFRICA",
+    "Denominazione": "TOGO",
+    "Codice Nazionale": "Z351"
+  },
+  {
+    "Continente": "AFRICA",
+    "Denominazione": "TUNISIA",
+    "Codice Nazionale": "Z352"
+  },
+  {
+    "Continente": "AFRICA",
+    "Denominazione": "UGANDA",
+    "Codice Nazionale": "Z353"
+  },
+  {
+    "Continente": "AFRICA",
+    "Denominazione": "BURKINA FASO",
+    "Codice Nazionale": "Z354"
+  },
+  {
+    "Continente": "AFRICA",
+    "Denominazione": "ZAMBIA",
+    "Codice Nazionale": "Z355"
+  },
+  {
+    "Continente": "AFRICA",
+    "Denominazione": "TANZANIA",
+    "Codice Nazionale": "Z357"
+  },
+  {
+    "Continente": "AFRICA",
+    "Denominazione": "BOTSWANA",
+    "Codice Nazionale": "Z358"
+  },
+  {
+    "Continente": "AFRICA",
+    "Denominazione": "LESOTHO",
+    "Codice Nazionale": "Z359"
+  },
+  {
+    "Continente": "AFRICA",
+    "Denominazione": "MAYOTTE",
+    "Codice Nazionale": "Z360"
+  },
+  {
+    "Continente": "AFRICA",
+    "Denominazione": "GIBUTI",
+    "Codice Nazionale": "Z361"
+  },
+  {
+    "Continente": "AFRICA",
+    "Denominazione": "ERITREA",
+    "Codice Nazionale": "Z368"
+  },
+  {
+    "Continente": "AMERICA SETTENTRIONALE",
+    "Denominazione": "BERMUDA",
+    "Codice Nazionale": "Z400"
+  },
+  {
+    "Continente": "AMERICA SETTENTRIONALE",
+    "Denominazione": "CANADA",
+    "Codice Nazionale": "Z401"
+  },
+  {
+    "Continente": "AMERICA SETTENTRIONALE",
+    "Denominazione": "GROENLANDIA",
+    "Codice Nazionale": "Z402"
+  },
+  {
+    "Continente": "AMERICA SETTENTRIONALE",
+    "Denominazione": "SAINT PIERRE E MIQUELON",
+    "Codice Nazionale": "Z403"
+  },
+  {
+    "Continente": "AMERICA SETTENTRIONALE",
+    "Denominazione": "STATI UNITI D'AMERICA",
+    "Codice Nazionale": "Z404"
+  },
+  {
+    "Continente": "AMERICA CENTRALE",
+    "Denominazione": "ANTILLE OLANDESI",
+    "Codice Nazionale": "Z501"
+  },
+  {
+    "Continente": "AMERICA CENTRALE",
+    "Denominazione": "BAHAMAS",
+    "Codice Nazionale": "Z502"
+  },
+  {
+    "Continente": "AMERICA CENTRALE",
+    "Denominazione": "COSTA RICA",
+    "Codice Nazionale": "Z503"
+  },
+  {
+    "Continente": "AMERICA CENTRALE",
+    "Denominazione": "CUBA",
+    "Codice Nazionale": "Z504"
+  },
+  {
+    "Continente": "AMERICA CENTRALE",
+    "Denominazione": "REPUBBLICA DOMINICANA",
+    "Codice Nazionale": "Z505"
+  },
+  {
+    "Continente": "AMERICA CENTRALE",
+    "Denominazione": "EL SALVADOR",
+    "Codice Nazionale": "Z506"
+  },
+  {
+    "Continente": "AMERICA CENTRALE",
+    "Denominazione": "GIAMAICA",
+    "Codice Nazionale": "Z507"
+  },
+  {
+    "Continente": "AMERICA CENTRALE",
+    "Denominazione": "GUADALUPA",
+    "Codice Nazionale": "Z508"
+  },
+  {
+    "Continente": "AMERICA CENTRALE",
+    "Denominazione": "GUATEMALA",
+    "Codice Nazionale": "Z509"
+  },
+  {
+    "Continente": "AMERICA CENTRALE",
+    "Denominazione": "HAITI",
+    "Codice Nazionale": "Z510"
+  },
+  {
+    "Continente": "AMERICA CENTRALE",
+    "Denominazione": "HONDURAS",
+    "Codice Nazionale": "Z511"
+  },
+  {
+    "Continente": "AMERICA CENTRALE",
+    "Denominazione": "BELIZE",
+    "Codice Nazionale": "Z512"
+  },
+  {
+    "Continente": "AMERICA CENTRALE",
+    "Denominazione": "MARTINICA",
+    "Codice Nazionale": "Z513"
+  },
+  {
+    "Continente": "AMERICA CENTRALE",
+    "Denominazione": "MESSICO",
+    "Codice Nazionale": "Z514"
+  },
+  {
+    "Continente": "AMERICA CENTRALE",
+    "Denominazione": "NICARAGUA",
+    "Codice Nazionale": "Z515"
+  },
+  {
+    "Continente": "AMERICA CENTRALE",
+    "Denominazione": "PANAMA",
+    "Codice Nazionale": "Z516"
+  },
+  {
+    "Continente": "AMERICA CENTRALE",
+    "Denominazione": "PANAMA ZONA DEL CANALE",
+    "Codice Nazionale": "Z517"
+  },
+  {
+    "Continente": "AMERICA CENTRALE",
+    "Denominazione": "PUERTO RICO",
+    "Codice Nazionale": "Z518"
+  },
+  {
+    "Continente": "AMERICA CENTRALE",
+    "Denominazione": "ISOLE TURKS E CAICOS",
+    "Codice Nazionale": "Z519"
+  },
+  {
+    "Continente": "AMERICA CENTRALE",
+    "Denominazione": "VERGINI AMERICANE (ISOLE)",
+    "Codice Nazionale": "Z520"
+  },
+  {
+    "Continente": "AMERICA CENTRALE",
+    "Denominazione": "BARBADOS",
+    "Codice Nazionale": "Z522"
+  },
+  {
+    "Continente": "AMERICA CENTRALE",
+    "Denominazione": "GRENADA",
+    "Codice Nazionale": "Z524"
+  },
+  {
+    "Continente": "AMERICA CENTRALE",
+    "Denominazione": "ISOLE VERGINI BRITANNICHE",
+    "Codice Nazionale": "Z525"
+  },
+  {
+    "Continente": "AMERICA CENTRALE",
+    "Denominazione": "DOMINICA",
+    "Codice Nazionale": "Z526"
+  },
+  {
+    "Continente": "AMERICA CENTRALE",
+    "Denominazione": "SAINT LUCIA",
+    "Codice Nazionale": "Z527"
+  },
+  {
+    "Continente": "AMERICA CENTRALE",
+    "Denominazione": "SAINT VINCENT E GRENADINE",
+    "Codice Nazionale": "Z528"
+  },
+  {
+    "Continente": "AMERICA CENTRALE",
+    "Denominazione": "ANGUILLA",
+    "Codice Nazionale": "Z529"
+  },
+  {
+    "Continente": "AMERICA CENTRALE",
+    "Denominazione": "ISOLE CAYMAN",
+    "Codice Nazionale": "Z530"
+  },
+  {
+    "Continente": "AMERICA CENTRALE",
+    "Denominazione": "MONTSERRAT",
+    "Codice Nazionale": "Z531"
+  },
+  {
+    "Continente": "AMERICA CENTRALE",
+    "Denominazione": "ANTIGUA E BARBUDA",
+    "Codice Nazionale": "Z532"
+  },
+  {
+    "Continente": "AMERICA CENTRALE",
+    "Denominazione": "SAINT KITTS E NEVIS",
+    "Codice Nazionale": "Z533"
+  },
+  {
+    "Continente": "AMERICA MERIDIONALE",
+    "Denominazione": "ARGENTINA",
+    "Codice Nazionale": "Z600"
+  },
+  {
+    "Continente": "AMERICA MERIDIONALE",
+    "Denominazione": "BOLIVIA",
+    "Codice Nazionale": "Z601"
+  },
+  {
+    "Continente": "AMERICA MERIDIONALE",
+    "Denominazione": "BRASILE",
+    "Codice Nazionale": "Z602"
+  },
+  {
+    "Continente": "AMERICA MERIDIONALE",
+    "Denominazione": "CILE",
+    "Codice Nazionale": "Z603"
+  },
+  {
+    "Continente": "AMERICA MERIDIONALE",
+    "Denominazione": "COLOMBIA",
+    "Codice Nazionale": "Z604"
+  },
+  {
+    "Continente": "AMERICA MERIDIONALE",
+    "Denominazione": "ECUADOR",
+    "Codice Nazionale": "Z605"
+  },
+  {
+    "Continente": "AMERICA MERIDIONALE",
+    "Denominazione": "GUYANA",
+    "Codice Nazionale": "Z606"
+  },
+  {
+    "Continente": "AMERICA MERIDIONALE",
+    "Denominazione": "GUYANA FRANCESE",
+    "Codice Nazionale": "Z607"
+  },
+  {
+    "Continente": "AMERICA MERIDIONALE",
+    "Denominazione": "SURINAME",
+    "Codice Nazionale": "Z608"
+  },
+  {
+    "Continente": "AMERICA MERIDIONALE",
+    "Denominazione": "MALVINE O FALKLAND (ISOLE)",
+    "Codice Nazionale": "Z609"
+  },
+  {
+    "Continente": "AMERICA MERIDIONALE",
+    "Denominazione": "PARAGUAY",
+    "Codice Nazionale": "Z610"
+  },
+  {
+    "Continente": "AMERICA MERIDIONALE",
+    "Denominazione": "PERU'",
+    "Codice Nazionale": "Z611"
+  },
+  {
+    "Continente": "AMERICA MERIDIONALE",
+    "Denominazione": "TRINIDAD E TOBAGO",
+    "Codice Nazionale": "Z612"
+  },
+  {
+    "Continente": "AMERICA MERIDIONALE",
+    "Denominazione": "URUGUAY",
+    "Codice Nazionale": "Z613"
+  },
+  {
+    "Continente": "AMERICA MERIDIONALE",
+    "Denominazione": "VENEZUELA",
+    "Codice Nazionale": "Z614"
+  },
+  {
+    "Continente": "OCEANIA",
+    "Denominazione": "AUSTRALIA",
+    "Codice Nazionale": "Z700"
+  },
+  {
+    "Continente": "OCEANIA",
+    "Denominazione": "CHRISTMAS (ISOLA)",
+    "Codice Nazionale": "Z702"
+  },
+  {
+    "Continente": "OCEANIA",
+    "Denominazione": "ISOLE COOK",
+    "Codice Nazionale": "Z703"
+  },
+  {
+    "Continente": "OCEANIA",
+    "Denominazione": "FIGI",
+    "Codice Nazionale": "Z704"
+  },
+  {
+    "Continente": "OCEANIA",
+    "Denominazione": "GUAM (ISOLA)",
+    "Codice Nazionale": "Z706"
+  },
+  {
+    "Continente": "OCEANIA",
+    "Denominazione": "IRIAN OCCIDENTALE",
+    "Codice Nazionale": "Z707"
+  },
+  {
+    "Continente": "OCEANIA",
+    "Denominazione": "MACQUARIE (ISOLE)",
+    "Codice Nazionale": "Z708"
+  },
+  {
+    "Continente": "OCEANIA",
+    "Denominazione": "MARIANNE (ISOLE)",
+    "Codice Nazionale": "Z710"
+  },
+  {
+    "Continente": "OCEANIA",
+    "Denominazione": "ISOLE MARSHALL",
+    "Codice Nazionale": "Z711"
+  },
+  {
+    "Continente": "OCEANIA",
+    "Denominazione": "MIDWAY (ISOLE)",
+    "Codice Nazionale": "Z712"
+  },
+  {
+    "Continente": "OCEANIA",
+    "Denominazione": "NAURU",
+    "Codice Nazionale": "Z713"
+  },
+  {
+    "Continente": "OCEANIA",
+    "Denominazione": "NIUE",
+    "Codice Nazionale": "Z714"
+  },
+  {
+    "Continente": "OCEANIA",
+    "Denominazione": "NORFOLK (ISOLE E ISOLE DEL MAR DEI CORALLI)",
+    "Codice Nazionale": "Z715"
+  },
+  {
+    "Continente": "OCEANIA",
+    "Denominazione": "NUOVA CALEDONIA",
+    "Codice Nazionale": "Z716"
+  },
+  {
+    "Continente": "OCEANIA",
+    "Denominazione": "NUOVA ZELANDA",
+    "Codice Nazionale": "Z719"
+  },
+  {
+    "Continente": "OCEANIA",
+    "Denominazione": "ISOLE CILENE (PASQUA E SALA Y GOMEZ)",
+    "Codice Nazionale": "Z721"
+  },
+  {
+    "Continente": "OCEANIA",
+    "Denominazione": "ISOLE PITCAIRN",
+    "Codice Nazionale": "Z722"
+  },
+  {
+    "Continente": "OCEANIA",
+    "Denominazione": "POLINESIA FRANCESE (ISOLE)",
+    "Codice Nazionale": "Z723"
+  },
+  {
+    "Continente": "OCEANIA",
+    "Denominazione": "ISOLE SALOMONE",
+    "Codice Nazionale": "Z724"
+  },
+  {
+    "Continente": "OCEANIA",
+    "Denominazione": "SAMOA AMERICANE (ISOLE)",
+    "Codice Nazionale": "Z725"
+  },
+  {
+    "Continente": "OCEANIA",
+    "Denominazione": "SAMOA",
+    "Codice Nazionale": "Z726"
+  },
+  {
+    "Continente": "OCEANIA",
+    "Denominazione": "TOKELAU O ISOLE DELL'UNIONE",
+    "Codice Nazionale": "Z727"
+  },
+  {
+    "Continente": "OCEANIA",
+    "Denominazione": "TONGA",
+    "Codice Nazionale": "Z728"
+  },
+  {
+    "Continente": "OCEANIA",
+    "Denominazione": "ISOLE WALLIS E FUTUNA",
+    "Codice Nazionale": "Z729"
+  },
+  {
+    "Continente": "OCEANIA",
+    "Denominazione": "PAPUA NUOVA GUINEA",
+    "Codice Nazionale": "Z730"
+  },
+  {
+    "Continente": "OCEANIA",
+    "Denominazione": "KIRIBATI",
+    "Codice Nazionale": "Z731"
+  },
+  {
+    "Continente": "OCEANIA",
+    "Denominazione": "TUVALU",
+    "Codice Nazionale": "Z732"
+  },
+  {
+    "Continente": "OCEANIA",
+    "Denominazione": "VANUATU",
+    "Codice Nazionale": "Z733"
+  },
+  {
+    "Continente": "OCEANIA",
+    "Denominazione": "PALAU",
+    "Codice Nazionale": "Z734"
+  },
+  {
+    "Continente": "OCEANIA",
+    "Denominazione": "STATI FEDERATI DI MICRONESIA",
+    "Codice Nazionale": "Z735"
+  },
+  {
+    "Continente": "TERRE POLARI ARTICHE",
+    "Denominazione": "DIPENDENZE CANADESI",
+    "Codice Nazionale": "Z800"
+  },
+  {
+    "Continente": "TERRE POLARI ARTICHE",
+    "Denominazione": "DIPENDENZE NORVEGESI ARTICHE",
+    "Codice Nazionale": "Z801"
+  },
+  {
+    "Continente": "TERRE POLARI ARTICHE",
+    "Denominazione": "DIPENDENZE RUSSE",
+    "Codice Nazionale": "Z802"
+  },
+  {
+    "Continente": "TERRE POLARI ANTARTICHE",
+    "Denominazione": "DIPENDENZE AUSTRALIANE",
+    "Codice Nazionale": "Z900"
+  },
+  {
+    "Continente": "TERRE POLARI ANTARTICHE",
+    "Denominazione": "DIPENDENZE BRITANNICHE",
+    "Codice Nazionale": "Z901"
+  },
+  {
+    "Continente": "TERRE POLARI ANTARTICHE",
+    "Denominazione": "DIPENDENZE FRANCESI",
+    "Codice Nazionale": "Z902"
+  },
+  {
+    "Continente": "TERRE POLARI ANTARTICHE",
+    "Denominazione": "DIPENDENZE NEOZELANDESI",
+    "Codice Nazionale": "Z903"
+  },
+  {
+    "Continente": "TERRE POLARI ANTARTICHE",
+    "Denominazione": "DIPENDENZE NORVEGESI ANTARTICHE",
+    "Codice Nazionale": "Z904"
+  },
+  {
+    "Continente": "TERRE POLARI ANTARTICHE",
+    "Denominazione": "DIPENDENZE STATUNITENSI",
+    "Codice Nazionale": "Z905"
+  },
+  {
+    "Continente": "TERRE POLARI ANTARTICHE",
+    "Denominazione": "DIPENDENZE SUDAFRICANE",
+    "Codice Nazionale": "Z906"
+  },
+  {
+    "Continente": "AFRICA",
+    "Denominazione": "SUD SUDAN",
+    "Codice Nazionale": "Z907"
+  }
+]
