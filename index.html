@@ -5,7 +5,7 @@
     <script src="./script.js"></script>
     <link rel="stylesheet" href="./style.css" />
   </head>
-  <body>
+  <body onload="init()">
     <div class="container">
       <h1>Calcola il codice fiscale</h1>
       <form onsubmit="false">
@@ -16,38 +16,69 @@
             placeholder="Inserisci il cognome..."
             id="in-cognome"
             oninput="textValidator(event)"
+            autocomplete="off"
           />
         </div>
         <div class="inputGroup">
           <label for="in-nome">Nome</label>
-          <input type="text" placeholder="Inserisci il nome..." id="in-nome" />
+          <input
+            type="text"
+            autocomplete="off"
+            oninput="textValidator(event)"
+            placeholder="Inserisci il nome..."
+            id="in-nome"
+          />
         </div>
         <div class="inputGroup multiple">
           <div class="inputGroup2">
-            <label for="in-data">Data</label>
+            <label for="in-data">Data di nascita</label>
             <input type="date" id="in-data" />
           </div>
-          <div class="inputGroup2">
-            <label for="in-gen">Genere</label>
-            <input type="text" id="in-gen" />
+          <div class="inputGroup2 genere">
+            <label for="genere">Genere</label>
+            <div id="genere">
+              <div>
+                <input type="radio" id="male" name="genere" value="M" />
+                <label for="male">M</label>
+              </div>
+              <div>
+                <input type="radio" id="female" name="genere" value="F" />
+                <label for="female">F</label>
+              </div>
+            </div>
           </div>
         </div>
         <div class="inputGroup multiple">
-            <div class="inputGroup3">
-                <label for="in-citta">Città</label>
-                <input type="text" id="in-citta" />
-            </div>
-            <div class="inputGroup4">
-                <label for="in-prov">Provincia</label>
-                <input type="text" id="in-prov" />
-            </div>
+          <div class="inputGroup3">
+            <label for="in-stato">Stato</label>
+            <input
+              type="text"
+              autocomplete="off"
+              placeholder="Stato..."
+              id="in-stato"
+              oninput="textValidator(event)"
+              onkeyup="filterFunction()"
+            />
+            <div id="drop-stato" class="dropdown-content"></div>
+          </div>
+          <div class="inputGroup5">
+            <label for="in-citta">Comune di nascita</label>
+            <input
+              type="text"
+              oninput="textValidator(event)"
+              placeholder="Città..."
+              autocomplete="off"
+              id="in-citta"
+            />
+          </div>
         </div>
-        <input type="button" value="Calcola" onclick="calcolaCodiceFiscale" />
         <input
+          class="calcola"
           type="button"
-          value="AAAAAA"
-          onclick="getCodStato('EUROPA', 'BELGIO')"
+          value="Calcola"
+          onclick="calcolaCodiceFiscale()"
         />
+        <p id="res" class="res">Risultato</p>
       </form>
     </div>
   </body>

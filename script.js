@@ -138,21 +138,89 @@ async function getComuni() {
   return comuni;
 }
 
-function calcolaCodiceFiscale() {
-  let nome = document.getElementById("in-nome").value;
+function checkRadio() {
+  let genere = document.getElementsByName("genere");
+  let res = false;
+  for (let i = 0; i < genere.length; i++) {
+    if (genere[i].checked) {
+      res = true;
+    }
+  }
+  return res;
+}
+
+async function calcolaCodiceFiscale() {
+  //fare controlli su input all'inizio
+  //ad esempio almeno uno dei radio checcato
+  //che i campi di testo non siano vuoti
+  //che la data sia valida
+
+  let codice = "";
   let cognome = document.getElementById("in-cognome").value;
-  console.log(nome, cognome);
+  if (cognome.length === 0) {
+    alert("Inserire un cognome");
+    return;
+  }
+  cognome = generateCognome(cognome);
+  let nome = document.getElementById("in-nome").value;
+  if (nome.length === 0) {
+    alert("Inserire un nome");
+    return;
+  }
+  nome = generateNome(nome);
+  let data = document.getElementById("in-data").value;
+  if (data.length === 0) {
+    alert("Inserire una data");
+    return;
+  }
+  let genere = document.getElementsByName("genere");
+  if (!checkRadio()) {
+    alert("Selezionare un genere");
+    return;
+  }
+  genere = genere[0].checked ? "M" : "F";
+  data = generateData(data, genere);
+
+  let nazione = document.getElementById("in-stato").value;
+  if (nazione.length === 0) {
+    alert("Inserire uno stato");
+    return;
+  }
+
+  if (nazione === "ITALIA") {
+    let comuneNascita = document.getElementById("in-citta").value;
+    if (comuneNascita.length === 0) {
+      alert("Inserire un comune");
+      return;
+    }
+    let codComune = await getCodComune(comuneNascita);
+    if (codComune.length === 0) {
+      alert("Comune non trovato");
+      return;
+    }
+    codice = cognome + nome + data + codComune;
+  } else {
+    let codStato = await getCodStato(nazione);
+    if (codStato.length === 0) {
+      alert("Stato non trovato");
+      return;
+    }
+    codice = cognome + nome + data + codStato;
+  }
+
+  codice += generateCheckDigit(codice);
+  document.getElementById("res").innerHTML = codice;
 }
 
 function textValidator(event) {
   let text = event.target.value;
-  text = text.toUpperCase().replace(/[^(A-Z|'|-|\s+)]/g, "");
+  text = text.toUpperCase().replace(/[^(\-|A-Z|'|\s)]/g, "");
   event.target.value = text;
 }
 
 function generateCognome(cognome) {
   let res = "";
-  cognome = cognome.replace(/[('|-|\s+)]/g, "");
+  cognome = cognome.replace(/[^(A-Z)]/g, "");
 
   let consonanti = cognome.match(/[^AEIOU]/g);
   let vocali = cognome.match(/[AEIOU]/g);
@@ -174,13 +242,13 @@ function generateCognome(cognome) {
       res = consonanti[0] + consonanti[1] + consonanti[2];
       break;
   }
-
+  console.log(res);
   return res;
 }
 
 function generateNome(nome) {
   let res = "";
-  nome = nome.replace(/(\s+|')/g, "");
+  nome = nome.replace(/[^(A-Z)]/g, "");
 
   let consonanti = nome.match(/[^AEIOU]/g);
   let vocali = nome.match(/[AEIOU]/g);
@@ -206,6 +274,7 @@ function generateNome(nome) {
       break;
   }
 
+  console.log(res);
   return res;
 }
 
@@ -220,6 +289,9 @@ function generateData(data, genere) {
   } else if (giorno.length < 2) {
     giorno = "0" + giorno;
   }
+
+  console.log(anno + mese + giorno);
+  return anno + mese + giorno;
 }
 
 function generateCheckDigit(codice) {
@@ -233,27 +305,37 @@ function generateCheckDigit(codice) {
   let sum = 0;
   for (let i = 0; i < codice.length; i++) {
     if (i % 2 == 1) {
-      console.log(codice[i], dictPosPari[codice[i]]);
       sum += dictPosPari[codice[i]];
     } else {
-      console.log(codice[i], dictPosDispari[codice[i]]);
       sum += dictPosDispari[codice[i]];
     }
   }
-  console.log(sum);
   console.log(dictCheckDigit[sum % 26]);
   return dictCheckDigit[sum % 26];
 }
 
-async function getCodStato(continente, denominazione) {
+async function getCodStato(denominazione) {
   // console.log(continente, stato);
   let codStato = "";
   let stati = await getStati();
-  let res = stati.filter(stato=>stato.Continente === continente && stato.Denominazione === denominazione);
-  console.log(res);
+  let res = stati.filter((stato) => stato.Denominazione === denominazione);
   if (res.length > 0) {
-    codStato = res[0]['Codice Nazionale'];
+    codStato = res[0]["Codice Nazionale"];
   }
   console.log(codStato);
   return codStato;
+}
+
+async function getCodComune(comuneNascita) {
+  // console.log(comune);
+  let codComune = "";
+  let comuni = await getComuni();
+  let res = comuni.filter(
+    (comune) => comune["Denominazione Italiana"] === comuneNascita
+  );
+  if (res.length > 0) {
+    codComune = res[0]["Codice Nazionale"];
+  }
+  console.log(codComune);
+  return codComune;
 }
